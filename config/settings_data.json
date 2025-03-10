@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "storefront_hostname": "https://pintamax-vnext.vercel.app/",
+    "storefront_hostname": "pintamax-vnext.vercel.app",
     "multipass_login": false,
     "content_for_index": []
   }
